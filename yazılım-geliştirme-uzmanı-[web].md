@@ -1,3 +1,5 @@
+**[open position]**
+
 Kitapyurdu.com olarak yazılım geliştirme departmanında web tabanlı uygulamaların geliştirilmesinde görevlendirilmek üzere,
 ofiste tam zamanlı çalışabilecek, **full-stack mid / senior** yazılım geliştirme uzmanı arıyoruz.
 
